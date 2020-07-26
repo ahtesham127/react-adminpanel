@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-adminpanel/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-adminpanel/static/js/main.876b8d30.chunk.js",
+    "main.js.map": "/react-adminpanel/static/js/main.876b8d30.chunk.js.map",
+    "runtime-main.js": "/react-adminpanel/static/js/runtime-main.93815d62.js",
+    "runtime-main.js.map": "/react-adminpanel/static/js/runtime-main.93815d62.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/react-adminpanel/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.660381d7.chunk.js": "/react-adminpanel/static/js/2.660381d7.chunk.js",
+    "static/js/2.660381d7.chunk.js.map": "/react-adminpanel/static/js/2.660381d7.chunk.js.map",
+    "index.html": "/react-adminpanel/index.html",
+    "precache-manifest.585371a3e5443c7fbf557a537ade4c58.js": "/react-adminpanel/precache-manifest.585371a3e5443c7fbf557a537ade4c58.js",
+    "service-worker.js": "/react-adminpanel/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/react-adminpanel/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/react-adminpanel/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.660381d7.chunk.js.LICENSE.txt": "/react-adminpanel/static/js/2.660381d7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-adminpanel/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93815d62.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.660381d7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.876b8d30.chunk.js"
+  ]
+}
